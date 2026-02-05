@@ -736,7 +736,7 @@ with top_left:
             <div class="mc-header">
               <div>
                 <h1>Moneycontrol CricPulse</h1>
-                <div class="mc-subtitle">Moment-based 3-over intelligence • Over: {over_start}–{over_end} • Ball: {ball_in_over} ({ball_legal_str})</div>
+                <div class="mc-subtitle">Cricket Intelligence Platform</div>
               </div>
             </div>
             ''',
